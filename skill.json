@@ -1,0 +1,17 @@
+{
+  "name": "genpark-count-min-sketch-frequency-estimator-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Count-Min Sketch Probabilistic Sublinear Heavy Hitters Frequency Estimator",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "data-structures",
+    "count-min-sketch",
+    "streaming-algorithms",
+    "frequency-estimation"
+  ]
+}
